@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import CheckboxAgeConfirmation from './CheckboxAgeConfirmation';
 
 
 
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(< CheckboxAgeConfirmation />, document.getElementById('root'));
 
 
